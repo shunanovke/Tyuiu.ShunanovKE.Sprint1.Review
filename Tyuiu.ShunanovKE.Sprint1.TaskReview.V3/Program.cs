@@ -12,16 +12,16 @@ namespace Tyuiu.ShunanovKE.Sprint1.TaskReview.V3
         static void Main(string[] args)
         {
             DataService ds = new DataService();
-            Console.Title = "Спринт#2 | Выполнил: Шунанов К. Е. | ПКТб-23-2";
+            Console.Title = "Спринт#1 | Выполнил: Шунанов К. Е. | ПКТб-23-2";
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* Спринт #2                                                               *");
+            Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Review                                                            *");
             Console.WriteLine("* Задание #Review                                                         *");
             Console.WriteLine("* Вариант #3                                                              *");
             Console.WriteLine("* Выполнил: Шунанов Кирилл Ерболатович | ПКТб-23-2                        *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
-            Console.WriteLine("* Написать программу, которая вычисляет выражение 20*5-4                  *");
+            Console.WriteLine("* Написать программу, которая вычисляет выражение                         *");
             Console.WriteLine("* и печатает результат на экране.                                         *");
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
